@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark Theme -->
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryVariant">#1A1A1A</color>
+    <color name="colorOnPrimary">#ffffff</color>
+    <color name="colorSecondary">#757575</color>
+    <color name="colorSecondaryVariant">#525252</color>
+    <color name="colorOnSecondary">#ffffff</color>
+
+    <!-- Light Theme -->
+    <color name="colorPrimaryLight">#FFFFFF</color>
+    <color name="colorPrimaryVariantLight">#F2F2F2</color>
+    <color name="colorOnPrimaryLight">#000000</color>
+    <color name="colorSecondaryLight">#BDBDBD</color>
+    <color name="colorSecondaryVariantLight">#9E9E9E</color>
+    <color name="colorOnSecondaryLight">#000000</color>
+</resources>
